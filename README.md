@@ -1,5 +1,5 @@
 # CED-Pytorch
-An implementation of CED: [Credible Early Detection of Social Media Rumors](https://ieeexplore.ieee.org/document/8939421) (CED) model for Early Fake News Detection in Pytorch.
+An implementation of CED: [Credible Early Detection of Social Media Rumors](https://ieeexplore.ieee.org/document/8939421) (CED) model for Early Fake News Detection in Pytorch and Pytorch Lightning.
 
 ## Implementation
 The implementation is done with Pytorch to make training and use easier on different datasets than the [paper's original implementation](https://github.com/thunlp/CED)
